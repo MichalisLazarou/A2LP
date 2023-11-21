@@ -2,7 +2,7 @@
 
 This repo covers the implementation of the following paper: 
 
-**"Adaptive anchor label propagation for transductive few-shot learning (ICIP 2023)"** [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.html)
+**"Adaptive anchor label propagation for transductive few-shot learning (ICIP 2023)"** [arxiv](https://ieeexplore.ieee.org/abstract/document/10223033)[Paper](https://ieeexplore.ieee.org/abstract/document/10223033)
 <p align='center'>
   <img src='A2LP.png' width="800px">
 </p>
